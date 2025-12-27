@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.2333mm" height="4.386mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 43.38 44.94"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#4D4D4D;stroke-width:2.71;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="miror_x0020_icon">
+   <path class="fil0 str0" d="M15.43 31.07l-14.08 7.82 0 -34.41 14.08 7.82 0 18.77z"/>
+   <path class="fil0 str0" d="M27.95 12.3l14.08 -7.82 0 34.41 -14.08 -7.82 0 -18.77z"/>
+   <path class="fil0 str0" d="M21.69 1.36l0 4.69"/>
+   <path class="fil0 str0" d="M21.69 38.9l0 4.69"/>
+   <path class="fil0 str0" d="M21.69 20.13l0 4.69"/>
+   <path class="fil0 str0" d="M21.69 10.74l0 4.69"/>
+   <path class="fil0 str0" d="M21.69 29.51l0 4.69"/>
+  </g>
+ </g>
+</svg>
