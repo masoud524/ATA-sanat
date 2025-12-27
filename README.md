@@ -64,3 +64,84 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+data of source
+
+# Ata Sanat
+
+**Ata Sanat** is a creative platform focused on the **design, production, and sale of graphic patterns inspired by gold, silver, and precious jewelry**.
+
+The project aims to blend traditional artistic motifs with modern digital design and provide a professional space for showcasing and selling high-quality graphic designs.
+
+---
+
+## ✨ Features
+
+- 🎨 Unique and elegant graphic pattern designs  
+- 💎 Inspired by gold, silver, and luxury jewelry  
+- 🛒 Digital platform for showcasing and selling designs  
+- 🖌️ Ideal for jewelry designers, artisans, and luxury brands  
+- 📐 Strong focus on detail, elegance, and aesthetics  
+
+---
+
+## 🎯 Project Goals
+
+- Preserve traditional artistic patterns in digital form  
+- Connect graphic designers with the jewelry industry  
+- Promote artistic and luxury-oriented design solutions  
+
+---
+
+## 🛠️ Technologies
+
+- Frontend: HTML / CSS / JavaScript  
+- Backend: Under development  
+- Design Tools: Adobe Illustrator / Photoshop  
+- Version Control: Git & GitHub  
+
+---
+
+## 📁 Project Structure
+
+
+
+
+
+
+# اتا صنعت | Ata Sanat
+
+**اتا صنعت** یک پلتفرم تخصصی در زمینه **طراحی، ساخت و فروش طرح‌های گرافیکی الهام‌گرفته از طلا، نقره و سایر جواهرات** است که بر خلق **نقش‌ونگارهای زیبا، اصیل و هنری** تمرکز دارد.
+
+این پروژه با هدف پیوند هنر سنتی با طراحی مدرن و دیجیتال راه‌اندازی شده است.
+
+---
+
+## ✨ ویژگی‌ها
+
+- 🎨 طراحی نقش‌ونگارهای گرافیکی خاص و منحصر‌به‌فرد  
+- 💎 الهام‌گرفته از طلا، نقره و جواهرات لوکس  
+- 🛒 امکان ارائه و فروش دیجیتال طرح‌ها  
+- 🖌️ مناسب برای طراحان طلا و جواهر، صنایع دستی و برندهای هنری  
+- 📐 توجه ویژه به ظرافت، جزئیات و زیبایی‌شناسی
+
+---
+
+## 🎯 هدف پروژه
+
+- حمایت از هنر و طراحی ایرانی  
+- دیجیتال‌سازی نقش‌ونگارهای سنتی  
+- ایجاد ارتباط میان طراحان گرافیک و صنعت طلا و جواهر  
+
+---
+
+## 🛠️ تکنولوژی‌ها
+
+- Frontend: HTML / CSS / JavaScript  
+- Backend: در حال توسعه  
+- ابزار طراحی: Adobe Illustrator / Photoshop  
+- کنترل نسخه: Git & GitHub  
+
+---
+
+## 📁 ساختار پروژه
